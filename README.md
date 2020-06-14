@@ -1,4 +1,5 @@
-# spring-graphql-mysql-demo
+# spring-graphql-mysql-demo 
+![Java CI with Gradle](https://github.com/suraj-subramanian/spring-graphql-mysql-demo/workflows/Java%20CI%20with%20Gradle/badge.svg)
 
 GraphQL API demo for books with Spring Boot and MySQL backend.
 
